@@ -3,12 +3,11 @@
 A real-time American Sign Language recognition web application powered by a Convolutional Neural Network (CNN) and Streamlit. The system recognizes 29 ASL hand gestures (A–Z, space, delete, and nothing) from webcam snapshots or image uploads with over 98% validation accuracy.
 
 ---
-
 ## 📸 Application Demo
 
 | Live Prediction & Confidence | Gesture Upload Interface |
 |:---:|:---:|
-| ![Prediction Demo](demo.jpg) | ![Upload Interface](demo1.png) |
+| ![Prediction Demo](demo.jpg.jpg) | ![Upload Interface](demo1.jpg.png) |
 
 ---
 
