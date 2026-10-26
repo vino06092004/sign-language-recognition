@@ -7,7 +7,7 @@ A real-time American Sign Language recognition web application powered by a Conv
 
 | Live Prediction & Confidence | Gesture Upload Interface |
 |:---:|:---:|
-| ![Prediction Demo](demo.jpg.jpg) | ![Upload Interface](demo1.jpg.png) |
+| ![Prediction Demo](demo.jpg.jpg) | ![Upload Interface](demo.jpg.png) |
 
 ---
 
