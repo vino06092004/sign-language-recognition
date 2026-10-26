@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+env/
+__pycache__/
+
+# Large dataset folder (prevents GitHub upload limits)
+dataset/
+
+# Model weights
+models/*.keras
