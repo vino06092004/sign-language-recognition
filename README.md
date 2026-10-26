@@ -4,6 +4,14 @@ A real-time American Sign Language recognition web application powered by a Conv
 
 ---
 
+## 📸 Application Demo
+
+| Live Prediction & Confidence | Gesture Upload Interface |
+|:---:|:---:|
+| ![Prediction Demo](demo.jpg) | ![Upload Interface](demo1.png) |
+
+---
+
 ## 📌 Features
 - **Real-Time Classification:** Snap photos directly using your webcam or upload existing gesture images.
 - **Top-3 Match Probabilities:** Displays confidence scores and alternative gesture candidates.
@@ -25,8 +33,6 @@ A real-time American Sign Language recognition web application powered by a Conv
    ```bash
    git clone [https://github.com/vino06092004/sign-language-recognition.git](https://github.com/vino06092004/sign-language-recognition.git)
    cd sign-language-recognition
-
-   Create and activate a virtual environment:
 
 PowerShell
 # Windows PowerShell
